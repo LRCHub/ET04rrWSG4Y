@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "爆裂愛してる(from M!LK ARENA TOUR 2025-2026 \"SMILE POP!\")",
+  "base_track": "爆裂愛してる",
   "base_artist": "M!LK",
-  "createdAt": "2026-02-21T01:51:02.784829Z",
+  "createdAt": "2026-03-19T16:17:45.893685Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,33 @@
       "artist": "M!LK",
       "has_synced": false,
       "path": "select/pl_01_爆裂愛してる_M!LK.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "爆裂愛してる",
+      "artist": "M!LK",
+      "has_synced": false,
+      "path": "select/localdb_01_爆裂愛してる_M!LK.txt",
+      "repo_name": "tpFDnOnOdSQ"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "爆裂愛してる",
+      "artist": "M!LK",
+      "has_synced": false,
+      "path": "select/localdb_02_爆裂愛してる_M!LK.txt",
+      "repo_name": "hhPalbt5Cq8"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "爆裂愛してる",
+      "artist": "M!LK",
+      "has_synced": false,
+      "path": "select/localdb_03_爆裂愛してる_M!LK.txt",
+      "repo_name": "ET04rrWSG4Y"
     }
   ]
 }
