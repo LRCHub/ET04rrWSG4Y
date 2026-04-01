@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "爆裂愛してる",
   "base_artist": "M!LK",
-  "createdAt": "2026-03-19T16:17:45.893685Z",
+  "createdAt": "2026-04-01T20:36:39.434745Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -28,7 +28,7 @@
       "artist": "M!LK",
       "has_synced": false,
       "path": "select/localdb_02_爆裂愛してる_M!LK.txt",
-      "repo_name": "hhPalbt5Cq8"
+      "repo_name": "ET04rrWSG4Y"
     },
     {
       "id": "localdb_3",
@@ -37,7 +37,7 @@
       "artist": "M!LK",
       "has_synced": false,
       "path": "select/localdb_03_爆裂愛してる_M!LK.txt",
-      "repo_name": "ET04rrWSG4Y"
+      "repo_name": "hhPalbt5Cq8"
     }
   ]
 }
